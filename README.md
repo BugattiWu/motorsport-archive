@@ -17,6 +17,7 @@ Tools & Methodology:
   - Google Earth's satellite imagery and terrain data
   - Historical maps and photographs
   - MotorSport's Racing Circuit Database
+  - 8W by forix.autosport.com
 
 
 Versioning:
