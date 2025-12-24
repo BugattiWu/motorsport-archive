@@ -1,24 +1,24 @@
 Motorsport Archive is an ongoing, long-term project focused on digitally cataloging racing circuits and routes throughout history.
 
 Each circuit and route is reconstructed in Google Earth, providing contexts for:
-  -Geospatial relationships
-  -Elevation and terrain
-  -Historical layout changes
+  - Geospatial relationships
+  - Elevation and terrain
+  - Historical layout changes
 
 Contents:
-  -Reconstructed circuit/routes (.KML) with descriptions
-  -Annotated landmarks
-  -Elevation profiles available
-  -Other references
+  - Reconstructed circuit/routes (.KML) with descriptions
+  - Annotated landmarks
+  - Elevation profiles available
+  - Other references
 
 Tools & Methodology:
-  -Google Earth's satellite imagery and terrain data
-  -Historical maps and photographs
-  -MotorSport's Racing Circuit Database
+  - Google Earth's satellite imagery and terrain data
+  - Historical maps and photographs
+  - MotorSport's Racing Circuit Database
 
 Versioning:
   - v0.x - Active development and expansion
-  -Versions increment with meaningful additions or revisions
+  - Versions increment with meaningful additions or revisions
 
 License & Use:
 This project is intended for research, educational, and archival purposes.
