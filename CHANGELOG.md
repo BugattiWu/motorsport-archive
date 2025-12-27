@@ -8,6 +8,9 @@ All notable changes and additions to this project will be documented here.
 ### Fixed
 - Incorrect pit straight location for Las Vegas Strip Circuit
 - Folder structure
+### Total Features
+- 146 Circuits
+- 23 Routes
 
 ## v0.3 - 2025/12/26
 ### Added
